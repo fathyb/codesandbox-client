@@ -22,7 +22,7 @@ sandboxes.
 ## Other CodeSandbox repositories
 
 CodeSandbox consists of several separate servers, some of which are open
-sourced.
+sourced.sxxx
 
 * Client: the web application
 * Server: the [Phoenix](https://github.com/phoenixframework/phoenix) API server
