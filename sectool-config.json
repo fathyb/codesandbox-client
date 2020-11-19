@@ -1,0 +1,16 @@
+{
+	"violation-policy": [
+		{
+			"class": "web-app",
+			"rules": {
+				"non-literal-require": "alert"
+			}
+		},
+		{
+			"class": "stored-secrets",
+			"rules": {
+				"private-key": "alert"
+			}
+		}
+	]
+}
